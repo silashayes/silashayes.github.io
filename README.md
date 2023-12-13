@@ -1,7 +1,3 @@
----
-title: Silas Hayes's Portfolio
----
-
 # [Football Expected Points Simulation & Ranking System](https://github.com/silashayes/football-expected-points)
 
 ## Expected Points Simulation
