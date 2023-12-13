@@ -7,7 +7,6 @@
 - In this case, difference in expected value when running/passing rate increased by a small percentage was analyzed
 - Additionally, the value (i.e. difference in expected points) of a good punter over an average punter analyzed
 ![](./images/EP%20Pass%20Visualization.png)
-![](./images/EP%20Run%20Visualization.png)
 
 ## Ranking System
 - Ranking system uses Markov chain properties (similar to PageRank) to rank teams at the end of the year based on their performance
