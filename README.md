@@ -11,5 +11,5 @@
 ## Ranking System
 - Ranking system uses Markov chain properties (similar to PageRank) to rank teams at the end of the year based on their performance
 
-![](https://github.com/silashayes/silashayes.github.io/blob/main/images/EP%20Pass%20Visualization.png)
-![](https://github.com/silashayes/silashayes.github.io/blob/main/images/EP%20Run%20Visualization.png)
+![](./images/EP%20Pass%20Visualization.png)
+![](./images/EP%20Run%20Visualization.png)
