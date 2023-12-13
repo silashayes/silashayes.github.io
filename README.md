@@ -1,6 +1,7 @@
 # Silas Hayes's Projects
 
 # [Football Expected Points Simulation & Ranking System](https://github.com/silashayes/football-expected-points)
+
 ## Expected Points Simulation
 - Calculates the expected points of a given situation (down, yards to go, yardage) by simulating football plays
 - Sampling of plays comes from a mixture model that models the number of yards gained on a play in a given situation
@@ -8,7 +9,7 @@
 - In this case, difference in expected value when running/passing rate increased by a small percentage was analyzed
 - Additionally, the value (i.e. difference in expected points) of a good punter over an average punter analyzed
 ## Ranking System
-- Ranking system uses Markov chains (similar to PageRank) to rank teams at the end of the year based on their performance
+- Ranking system uses Markov chain properties (similar to PageRank) to rank teams at the end of the year based on their performance
 
 ![](https://github.com/silashayes/silashayes.github.io/blob/main/images/EP%20Pass%20Visualization.png)
 ![](https://github.com/silashayes/silashayes.github.io/blob/main/images/EP%20Run%20Visualization.png)
