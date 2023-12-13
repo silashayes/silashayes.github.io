@@ -9,3 +9,6 @@
 - Additionally, the value (i.e. difference in expected points) of a good punter over an average punter analyzed
 ## Ranking System
 - Ranking system uses Markov chains (similar to PageRank) to rank teams at the end of the year based on their performance
+
+![](https://github.com/silashayes/silashayes.github.io/blob/main/images/EP%20Pass%20Visualization.png)
+![](https://github.com/silashayes/silashayes.github.io/blob/main/images/EP%20Run%20Visualization.png)
