@@ -6,11 +6,13 @@
 - Model is parameterized so can be adjusted to perform analysis
 - In this case, difference in expected value when running/passing rate increased by a small percentage was analyzed
 - Additionally, the value (i.e. difference in expected points) of a good punter over an average punter analyzed
-![](./images/EP%20Pass%20Visualization.png)
+<p align="center">
+  <img src="./images/EP%20Pass%20Visualization.png" alt="EP Viz" style="width:"50%"/>
+</p>
 
 ## Ranking System
 - Ranking system uses Markov chain properties (similar to PageRank) to rank teams at the end of the year based on their performance
 ![](./images/Rankings%20Table.png)
 <p align="center">
-  <img src="./images/Rankings%20Table.png" alt="try2" style="width:50px;"/>
+  <img src="./images/Rankings%20Table.png" alt="Markov Rank Viz" style="width:"50%"/>
 </p>
