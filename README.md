@@ -13,5 +13,5 @@
 ## Ranking System
 - Ranking system uses Markov chain properties (similar to PageRank) to rank teams at the end of the year based on their performance
 <p align="center">
-  <img src="./images/Rankings%20Table.png" alt="Markov Rank Viz" width="40%"/>
+  <img src="./images/Rankings%20Table.png" alt="Markov Rank Viz" width="35%"/>
 </p>
