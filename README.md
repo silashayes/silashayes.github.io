@@ -32,5 +32,5 @@
 
 - Examines effect graphs of the 3 models to assess reliability of inferential conclusions
 <p align="center">
-  <img src="./images/Effect%20Graphs.svg" alt="" width="80%"/>
+  <img src="./images/Effect%20Graphs.svg" alt="" width="100%"/>
 </p>
