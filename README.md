@@ -22,13 +22,13 @@
 - Models the probability of whether or not it will rain tomorrow given variables from today
 - Compares pooled, unpooled, and hierarchical approaches to the problem via prior and posterior predictive distributions and Bayesian p-values
 <p align="center">
-  <img src="./images/Posterior%20Predictives.svg" alt="Posterior Predictives" width="40%"/>
+  <img src="./images/Posterior%20Predictives.svg" alt="Posterior Predictives" width="80%"/>
 </p>
 - Performs counterfactual analysis on certain variables to analyze their impact on whether it will rain tomorrow
 <p align="center">
-  <img src="./images/Rainfall%20Counterfactual.svg" alt="" width="40%"/>
+  <img src="./images/Rainfall%20Counterfactual.svg" alt="" width="80%"/>
 </p>
 - Examines effect graphs of the 3 models to assess reliability of inferential conclusions
 <p align="center">
-  <img src="./images/Effect%20Graphs.svg" alt="" width="40%"/>
+  <img src="./images/Effect%20Graphs.svg" alt="" width="80%"/>
 </p>
