@@ -15,3 +15,20 @@
 <p align="center">
   <img src="./images/Rankings%20Table.png" alt="Markov Rank Viz" width="40%"/>
 </p>
+
+# [A Bayesian Approach to Predicting Weather](https://github.com/silashayes/bml-weather)
+
+## 3 Models for Predicting Weather
+- Models the probability of whether or not it will rain tomorrow given variables from today
+- Compares pooled, unpooled, and hierarchical approaches to the problem via posterior predictive distributions
+- Performs counterfactual analysis on certain variables to analyze their impact on whether it will rain tomorrow
+- Examines effect graphs of the 3 models to assess reliability of inferential conclusions
+<p align="center">
+  <img src="" alt="" width=""/>
+</p>
+<p align="center">
+  <img src="" alt="" width=""/>
+</p>
+<p align="center">
+  <img src="" alt="" width=""/>
+</p>
